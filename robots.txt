@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ademback.github.io/sitemap.html.gz
+Sitemap: https://ademback.github.io/app/sitemap.html.gz
+Sitemap: https://ademback.github.io/assets/sitemap.html.gz
+Sitemap: https://ademback.github.io/css/sitemap.html.gz
+Sitemap: https://ademback.github.io/data/sitemap.html.gz
+Sitemap: https://ademback.github.io/includes/sitemap.html.gz
+Sitemap: https://ademback.github.io/item/sitemap.html.gz
+Sitemap: https://ademback.github.io/src/sitemap.html.gz
